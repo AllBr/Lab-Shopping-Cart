@@ -1,1 +1,41 @@
-/* TODO: Make it awesome */
+
+h1{
+  font-size: 3em;
+  text-align:center;
+  color: black;
+  padding: 10px;
+
+}
+
+nav{
+text-align: center;
+
+
+}
+.copy{
+
+  border-color: black;
+  text-align: center;
+  padding: 10px;
+}
+
+
+body {
+  text-align: center;
+
+}
+
+
+.card {
+  text-align: center;
+
+}
+
+footer {
+  text-align: center;
+
+}
+
+a {
+  font-size: 2em;
+}
